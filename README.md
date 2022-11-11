@@ -17,7 +17,12 @@ Computer Vision (CV) for AR technology<br>
 Firebase Database<br>
 
 <h2>Flow chart of the App</h2>
-![image](https://user-images.githubusercontent.com/69755312/201263155-99db461c-0f8e-49d4-9056-34ee39e9bb0e.png)
+<img width="4384" alt="m-cos flowchart" src="https://user-images.githubusercontent.com/69755312/201264099-5c84874b-c2b9-4c8b-b7bf-6ebd04f94440.png">
+
+<h2>Architecture Diagram</h2>
+<img width="3252" alt="Mcos (2)" src="https://user-images.githubusercontent.com/69755312/201264178-ec2e59f1-84e5-4254-af1d-4569b91132bc.png">
+
+
 
 
 
