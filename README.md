@@ -10,11 +10,11 @@ As the example in the problem statement was of some cosmetic brand so we are usi
 
 <h2>Technology Stack</h2><br>
 ✔️Front end:-<br>
- XML for Front End<br>
+  • XML for Front End<br>
 ✔️Back end:-<br>
-Java for Back End<br>
-Computer Vision (CV) for AR technology<br>
-Firebase Database<br>
+  • Java for Back End<br>
+  • Computer Vision (CV) for AR technology<br>
+  • Firebase Database<br>
 
 <h2>Flow chart of the App</h2>
 <img width="4384" alt="m-cos flowchart" src="https://user-images.githubusercontent.com/69755312/201264099-5c84874b-c2b9-4c8b-b7bf-6ebd04f94440.png">
